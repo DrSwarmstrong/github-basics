@@ -1,2 +1,2 @@
-# github-basics
-This repository is for learning how to upload to GitHub.
+# Playing around with uploading on GitHub
+This is my repository for fiddling around with how uploading projects onto github works. Nothing more, nothing less.
